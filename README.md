@@ -2,7 +2,7 @@
 
 # Jogo de tiro feito em Construct 3 com Banco de dados NoSQL (FireBase)
 
-## Imagem do jogão 
+## Imagem do Game
 ![image](https://github.com/user-attachments/assets/8dd797e9-4107-43d8-a5ad-7dd3b67d10f1)
 
 # Link para gameplay 
