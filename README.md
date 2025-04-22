@@ -7,7 +7,7 @@
 
 # Link para gameplay 
 https://www.construct.net/en/free-online-games/gameshooter-75782/play 
-Assim que entrar no site, irá ter um preview do jogo, onde poderá testa-lo. Um pouco abaixo irá ter o download do arquivo C3P.
+Assim que entrar no site, irá ter um preview do jogo, onde poderá testa-lo. Um pouco abaixo irá ter o download do arquivo C3P. Acesse o site https://www.construct.net/en e clique em "Launch Construct 3" e depois "Launch the Guided Tour", irá ser redirecionado a uma nova página onde poderá escolher o arquivo baixado para modificado caso queira, fique a vontade !
 
 # Como jogar:
 Utilize as ⬅️⬇️⬆️➡️ de seu teclado para movimentar seu personagem, e o 🖱️ para mirar e rotacionar. Agora é so Arrebentar o dedo nos inimigos!
